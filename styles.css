@@ -1,0 +1,16 @@
+body{
+    background-color: #bb6a56;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #423c3b;
+}
+h1{
+    text-align: center;
+    color: #423c3b;
+}
+a{
+    text-decoration: none;
+    color: #423c3b;;
+}
+.contenedorimagen, .contenido{
+    text-align: center;
+}
